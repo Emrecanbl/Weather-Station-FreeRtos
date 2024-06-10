@@ -1,6 +1,5 @@
 # Weather-Station-FreeRtos
 Weather Station (FreeRTOS)
-!Weather Station Logo
 
 Introduction
 The Weather Station project is a real-time weather monitoring application built using FreeRTOS. It collects data from various sensors (temperature, humidity, pressure, etc.) and provides real-time updates. Whether you’re a hobbyist or a professional, this project allows you to create your own weather station.
