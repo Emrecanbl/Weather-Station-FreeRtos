@@ -34,6 +34,6 @@ Detailed documentation can be found in the docs folder.
 #License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to replace the placeholders with actual content relevant to your project. Happy coding! 🌦️🚀
+🌦️🚀
 ![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/IMG_20240610_170653.jpg?raw=true)
 
