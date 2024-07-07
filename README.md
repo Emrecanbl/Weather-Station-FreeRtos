@@ -20,9 +20,8 @@ Various peripheral components (e.g., resistors, capacitors)
 Installation
 Clone the repository:
 
-sh
-Kodu kopyala
 git clone https://github.com/Emrecanbl/Weather-Station-FreeRtos.git
+
 Open the project:
 Open the project in your preferred IDE (e.g., STM32CubeIDE).
 
