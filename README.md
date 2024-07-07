@@ -1,7 +1,7 @@
 
 Weather Station using FreeRTOS
 This project is a weather station utilizing the STM32F401 microcontroller, DHT11 sensor, ESP8266 module, and ST7735 SPI screen. The system is implemented using FreeRTOS for task management and communicates via UART. It also retrieves the date and time from the internet using the ESP8266 and provides an internet interface for data access.
-![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/Screenshot_1.jpg?raw=true)
+![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/appearance.jpg?raw=true)
 Features
 STM32F401 Microcontroller: Provides the core processing capabilities.
 DHT11 Sensor: Measures temperature and humidity.
@@ -69,8 +69,9 @@ Web Interface Issues: Ensure the web server task is running and properly configu
 FreeRTOS Configuration: Ensure that FreeRTOS is correctly configured and the tasks are properly prioritized.
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
-![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/appearance.jpg?raw=true)
+
 ![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/Screenshot_1.jpg?raw=true)
+![Sample](https://github.com/Emrecanbl/Weather-Station-FreeRtos/blob/main/Demo.jpg?raw=true)
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
